@@ -13,6 +13,11 @@ Esta maqueta web muestra un diseño profesional con un enfoque corporativo, incl
 * Galería de servicios con interacción de collapse
 * Redes sociales integradas mediante icons y accordion en móvil
 
+## 🌐 Visitar la página web
+
+[![Abrir Maqueta Cisco](https://img.shields.io/badge/Ver%20Proyecto-Web-blue?style=for-the-badge)](https://marioskky.github.io/Bootstrap/)
+
+
 ## 🛠️ Tecnologías utilizadas
 
 * **HTML5** – Estructura del sitio
@@ -57,3 +62,4 @@ Proyecto educativo y de demostración, uso libre.
 ---
 
 🌟 *Simulando soluciones corporativas de Cisco de manera profesional y visual.*
+
